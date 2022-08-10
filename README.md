@@ -41,4 +41,3 @@
 ## Как со мной связаться
 
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&message=Telegram&label=&color=4682B4&labelColor=FFFFFF)](https://t.me/SergiuszAdalbert)
-[![Vk](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=mail&label=&color=b8d3ff&labelColor=FFFFFF)](vlasovsergei1988@gmail.com)
